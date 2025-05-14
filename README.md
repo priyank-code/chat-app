@@ -1,6 +1,6 @@
-# Gemini Chat App - Real-Time AI-Powered Chat with React.js
+# Chat App - Real-Time AI-Powered Chat with React.js
 
-Welcome to the **Gemini Chat App**! This is a real-time messaging application built with **React.js** and integrated with the **Gemini API** for AI-powered conversations. The app allows users to chat with a sophisticated AI model in real-time, providing dynamic, intelligent, and context-aware responses.
+Welcome to the my **Chat App**! This is a real-time messaging application built with **React.js** and integrated with the **Gemini API** for AI-powered conversations. The app allows users to chat with a sophisticated AI model in real-time, providing dynamic, intelligent, and context-aware responses.
 
 ## Features
 
