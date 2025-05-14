@@ -4,9 +4,8 @@ Welcome to the **Gemini Chat App**! This is a real-time messaging application bu
 
 ## Features
 
-- **Real-Time Messaging**: Instant chat interactions powered by WebSocket or REST API.
+- **Real-Time Messaging**: Instant chat interactions.
 - **Gemini AI Integration**: Conversational AI from the Gemini API for intelligent, human-like responses.
-- **User Authentication**: Secure login and session management for personalized chat experiences.
 - **Chat History**: Save and review previous conversations to maintain continuity.
 - **Responsive Design**: A smooth and adaptive user interface for both desktop and mobile devices.
 - **Customizable User Preferences**: Personalize the chat theme and interaction style.
@@ -15,9 +14,7 @@ Welcome to the **Gemini Chat App**! This is a real-time messaging application bu
 
 - **React.js**: Frontend framework for building the user interface with efficient component-based architecture.
 - **Gemini API**: Provides cutting-edge conversational AI for real-time, intelligent responses.
-- **Node.js** (optional): For backend support like user authentication and chat history management.
-- **WebSocket/REST API**: Ensures real-time communication and message synchronization.
-- **CSS/Styled Components**: For custom and responsive design of the app.
+- **Tailwindcss/Styled Components**: For custom and responsive design of the app.
 
 ## Getting Started
 
