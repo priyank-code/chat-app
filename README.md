@@ -1,17 +1,30 @@
-<<<<<<< HEAD
-# React + Vite
+# Gemini Chat App - Real-Time AI-Powered Chat with React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Gemini Chat App**! This is a real-time messaging application built with **React.js** and integrated with the **Gemini API** for AI-powered conversations. The app allows users to chat with a sophisticated AI model in real-time, providing dynamic, intelligent, and context-aware responses.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Real-Time Messaging**: Instant chat interactions powered by WebSocket or REST API.
+- **Gemini AI Integration**: Conversational AI from the Gemini API for intelligent, human-like responses.
+- **User Authentication**: Secure login and session management for personalized chat experiences.
+- **Chat History**: Save and review previous conversations to maintain continuity.
+- **Responsive Design**: A smooth and adaptive user interface for both desktop and mobile devices.
+- **Customizable User Preferences**: Personalize the chat theme and interaction style.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# chat-app
-A real-time messaging app built with React.js and integrated with the Gemini API for intelligent, dynamic conversations. This app leverages Gemini's AI capabilities to deliver natural, context-aware responses in real-time, providing users with an engaging and interactive chat experience.
->>>>>>> 90ef251b7444d8456ceccc222b32c86ed02321fa
+- **React.js**: Frontend framework for building the user interface with efficient component-based architecture.
+- **Gemini API**: Provides cutting-edge conversational AI for real-time, intelligent responses.
+- **Node.js** (optional): For backend support like user authentication and chat history management.
+- **WebSocket/REST API**: Ensures real-time communication and message synchronization.
+- **CSS/Styled Components**: For custom and responsive design of the app.
+
+## Getting Started
+
+To get the app up and running locally, follow these steps:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/priyank-code/chat-app.git
+cd chat-app
